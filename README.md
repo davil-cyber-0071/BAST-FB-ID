@@ -9,3 +9,8 @@ pkg install git
 git clone https://github.com/davil-cyber-0071/BAST-FB-ID.git
 
 python BAST-FB-Id-CLONER.py
+
+#you want to username & password contact admin 
+
+https://t.me/official_evan_0071
+
